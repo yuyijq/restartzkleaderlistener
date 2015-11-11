@@ -4,4 +4,4 @@ Usage:
 
 mvn clean package
 
-java -jar restartzkleaderlistener.jar <target zookeeper pid>
+java -jar restartzkleaderlistener.jar \<target zookeeper pid\>
